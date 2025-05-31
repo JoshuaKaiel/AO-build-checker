@@ -1,0 +1,89 @@
+name;requirements;stats;shared;exclusive;unique
+"Blast";0;["mag"];[];"";false
+"Explosion";30;["mag"];[];"";false
+"Leap";60;["mag"];[];"";false
+"Beam";90;["mag"];[];"";false
+"Snare";120;["mag"];[];"";false
+"Aura";150;["mag"];[];"";false
+"Cannon";80;["mag"];[];"";false
+"Barrage";"100";["mag"];[];"";false
+"Javelin";"150";["mag"];[];"";false
+"Nebula";200;["mag"];[];"";false
+"Array";220;["mag"];[];"";false
+"Surge";240;["mag"];[];"";false
+"Hasta";240;["mag"];[];"";false
+"Pulsar";240;["mag"];[];"";false
+"Enchantment";220;["mag"];[];"";false
+"Crash";30;["str"];[];"";false
+"Smash";60;["str"];[];"";false
+"Rushdown";90;["str"];[];"";false
+"Shot";120;["str"];[];"";false
+"Focus";150;["str"];[];"";false
+"Jab";80;["str"];[];"";false
+"Selino";150;["str"];[];"";false
+"Blitz";220;["str"];[];"";false
+"Axe-Slash";240;["str"];[];"";false
+"Uppercut";240;["str"];[];"";false
+"Throw";30;["wep"];["str"];"";false
+"Sword Draw: Flash Strike";30;["wep"];["str"];"";false
+"Whirlwind";30;["wep"];["str"];"";false
+"Twin Crescents";30;["wep"];["str"];"";false
+"Devastate";30;["wep"];["str"];"";false
+"Tempest";30;["wep"];["str"];"";false
+"Raging Impact";30;["wep"];["str"];"";false
+"Primal Swipe";30;["wep"];["str"];"";false
+"Piercing Strikes";30;["wep"];["str"];"";false
+"Knocking Blitz";30;["wep"];["str"];"";false
+"Rain of Arrows";30;["wep"];["str"];"";false
+"Cheap Shot";30;["wep"];["str"];"";false
+"Gun Draw: Rapid Fire";30;["wep"];["str"];"";false
+"Onslaught";30;["wep"];["str"];"";false
+"Flying Slash";60;["wep"];["str"];"";false
+"Shining Cycle";60;["wep"];["str"];"";false
+"Spiralling Fury";60;["wep"];["str"];"";false
+"Tiger Rush";60;["wep"];["str"];"";false
+"Sword Draw: Mirrored River";60;["wep"];["str"];"";false
+"Sword Draw: Mountain Wind";60;["wep"];["str"];"";false
+"Striking Gale";60;["wep"];["str"];"";false
+"Skull Crusher";60;["wep"];["str"];"";false
+"Beast Instinct";60;["wep"];["str"];"";false
+"Brutal Rush";60;["wep"];["str"];"";false
+"Impaling Strike";60;["wep"];["str"];"";false
+"Piercing Gale";60;["wep"];["str"];"";false
+"Shield Bash";60;["wep"];["str"];"";false
+"Quickdraw";60;["wep"];["str"];"";false
+"Multi Shot";60;["wep"];["str"];"";false
+"Quick Combo";60;["wep"];["str"];"";false
+"Piercing Shot";60;["wep"];["str"];"";false
+"Flying Phoenix";90;["wep"];["str"];"";false
+"Soaring Eagle";90;["wep"];["str"];"";false
+"Sparrow Thrust";90;["wep"];["str"];"";false
+"Rising Tide";100;["wep"];["str"];"Sunken Sword";true
+"Fury of the Sea";200;["wep"];["str"];"Sunken Staff";true
+"Ethereal Flash";220;["wep"];["str"];"Ethereal Flash";true
+"Rain of Arrows";120;["wep"];["str"];"";true
+"Crushing Judgement";220;["wep"];["str"];"";true
+"Power Shot";220;["wep"];["str"];"";true
+"Seismic Slash";160;["wep","str"];[];"";true
+"Colossal Cleave";140;["wep","str"];[];"";true
+"Spirit Blast";0;["spi"];[];"";false
+"Spirit Wall";40;["spi"];[];"";false
+"Spirit Hound";1000;["spi"];[];"";false
+"Spirit Rain";40;["spi"];[];"";false
+"Spirit Burst";1000;["spi"];[];"";false
+"Spirit Shockwave";1000;["spi"];[];"";false
+"Spirit Drain";1000;["spi"];[];"";false
+"Spirit Barrage";1000;["spi"];[];"";false
+"Spirit Walk";160;["spi"];[];"";false
+"Spirit Rise";1000;["spi"];[];"";false
+"Spirit Flight";160;["spi"];[];"";false
+"Astrapikis";100;["spi"];[];"Eagle Patrimony";true
+"Nichtethesis";100;["spi"];[];"Staff of Night";true
+"Aithoro";1000;["spi"];[];"Crystal Orb";true
+"Thalakyma";1000;["spi"];[];"Tidestone Band";true
+"Flomva";100;["spi"];[];"Ember Staff";true
+"Astropos";200;["spi"];[];"Eagle Patrimony";true
+"Nichtaplia";200;["spi"];[];"Staff of Night";true
+"Aithiraki";1000;["spi"];[];"Crystal Orb";true
+"Thakrousi";1000;["spi"];[];"Tidestone Band";true
+"Floganymai";200;["spi"];[];"Ember Staff";true
