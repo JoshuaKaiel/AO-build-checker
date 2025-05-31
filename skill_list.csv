@@ -58,9 +58,9 @@ name;requirements;stats;shared;exclusive;unique
 "Flying Phoenix";90;["wep"];["str"];"";false
 "Soaring Eagle";90;["wep"];["str"];"";false
 "Sparrow Thrust";90;["wep"];["str"];"";false
-"Rising Tide";100;["wep"];["str"];"Sunken Sword";true
-"Fury of the Sea";200;["wep"];["str"];"Sunken Staff";true
-"Ethereal Flash";220;["wep"];["str"];"Ethereal Flash";true
+"Rising Tide";100;["wep"];[];"Sunken Sword";true
+"Fury of the Sea";200;["wep"];[];"Sunken Staff";true
+"Ethereal Flash";220;["wep"];[];"Triasta of Bronze";true
 "Rain of Arrows";120;["wep"];["str"];"";true
 "Crushing Judgement";220;["wep"];["str"];"";true
 "Power Shot";220;["wep"];["str"];"";true
